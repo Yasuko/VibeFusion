@@ -1,0 +1,3 @@
+[submodule "src/_lib"]
+	path = src/_lib
+	url = https://bitbucket.org/yasukosan/ts_lib/

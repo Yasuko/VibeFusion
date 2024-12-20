@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1100"
+   height="80"
+   viewBox="0 0 1100 80"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="blowout_right.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.1081818"
+     inkscape:cx="550"
+     inkscape:cy="39.704676"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="matrix(0.79484135,0,0,1.7488848,-97.099095,-260.18105)"
+     inkscape:export-filename="C:\Users\moriya\project\article_alchemy\tmp\blowout_right.png"
+     inkscape:export-xdpi="95.989998"
+     inkscape:export-ydpi="95.989998">
+    <path
+       id="rect874"
+       style="fill:#f5f4f3;fill-opacity:1;stroke:#e0b83d;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1617.7008,152.76969 H 128.71005 c -1.031,0 -2.5415,1.80039 -2.5415,2.39265 v 75.53125 c -0.058,0.72163 1.2967,2.11329 2.2689,2.11329 H 1549.639 l 78.3398,26.24875 -8.4989,-31.83577 v -72.87314 c 0,-0.61933 -1.4345,-1.57703 -1.7791,-1.57703 z" />
+  </g>
+</svg>

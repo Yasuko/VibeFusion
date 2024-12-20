@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1100"
+   height="80"
+   viewBox="0 0 1100 80"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="title.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:export-filename="C:\Users\moriya\project\article_alchemy\tmp\title.png"
+   inkscape:export-xdpi="95.989998"
+   inkscape:export-ydpi="95.989998"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.5540909"
+     inkscape:cx="793.19115"
+     inkscape:cy="149.79492"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid947" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="matrix(0.79484135,0,0,1.7488848,-97.099095,-260.18105)"
+     inkscape:export-filename="C:\Users\moriya\project\article_alchemy\tmp\blowout_right.png"
+     inkscape:export-xdpi="95.989998"
+     inkscape:export-ydpi="95.989998">
+    <path
+       id="rect874"
+       style="fill:#f5f4f3;fill-opacity:1;stroke:#93cfdd;stroke-width:13.144;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1623.5478,136.76648 H 131.29077 c -1.03326,0 -2.54708,4.8492 -2.54708,6.44441 v 203.4371 c -0.0581,1.94366 1.29955,5.69197 2.27388,5.69197 l 1493.72843,-0.1775 0.5848,-211.14833 c 0,-1.66811 -1.4376,-4.24759 -1.783,-4.24759 z"
+       sodipodi:nodetypes="sssccccs" />
+  </g>
+</svg>

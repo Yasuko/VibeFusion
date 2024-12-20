@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  voicevox:
+    image: voicevox/voicevox_engine:cpu-0.21.1
+    tty: true
+    ports:
+      - "50021:50021"
+
