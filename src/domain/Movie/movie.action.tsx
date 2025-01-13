@@ -123,7 +123,14 @@ function* movieAction(
 
     // 生成した映像を連結
     console.log('MovieList', MovieList)
-    yield concatAllMovies(MovieList)
+    const concatMove = yield concatAllMovies(MovieList)
+
+    yield put({
+        type: 'YoutubeAction/uploadMove',
+        payload: {
+            movie: concatMove
+        }
+    })
 }
 
 /**

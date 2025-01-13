@@ -35,3 +35,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+token.json
+client_secret.json
+public/E01_04.mp4

@@ -108,6 +108,16 @@ export default function Debug() {
                     DigestHistory
                 </button>
             </div>
+            <div
+                className="
+                col-span-1
+                ">
+                <button
+                    className="bg-pink-700 p-2 rounded-lg hover:bg-pink-800"
+                    onClick={() => dispatch({type: 'YoutubeAction/uploadTest'})}>
+                    UploadTest
+                </button>
+            </div>
         </div>
     )
 }
